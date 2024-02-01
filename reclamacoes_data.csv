@@ -1,0 +1,101 @@
+id,nome,local,idade,tipo_reclamacao,mensagem
+1,Jordan Hayes,Michaelshire,31,Cancelamento,Estou enfrentando dificuldades para cancelar meu plano. A empresa precisa resolver isso.
+2,Laurie Stevens,East Garyview,20,Atendimento,O atendimento ao cliente deixou a desejar. Não me senti valorizado como cliente.
+3,Ronnie Luna,Jameschester,35,Cancelamento,Estou enfrentando dificuldades para cancelar meu plano. A empresa precisa resolver isso.
+4,Kayla Wu,Hernandezmouth,28,Dados Cadastrais,As alterações recentes em meus dados cadastrais não foram refletidas na minha conta. Favor corrigir.
+5,Johnny Molina,New Erin,46,Atendimento,Fui transferido para vários setores e ainda não obtive a solução para meu problema.
+6,Sean Banks,New Angela,31,Mudança de Endereço,"Atualizei meu endereço, mas o serviço não foi transferido corretamente. Preciso resolver isso."
+7,Anna Johnson,East Joshuatown,32,Dados Cadastrais,"Ao acessar minha conta, percebi que alguns dados estão incorretos. Favor corrigir."
+8,Michael Everett,West Charles,53,Atendimento,A equipe de suporte não foi capaz de resolver meu problema. Estou insatisfeito.
+9,Anthony Cole,Thomasside,24,Mudança de Endereço,Estou enfrentando dificuldades após a mudança de endereço. O serviço não está funcionando adequadamente.
+10,Amanda Hawkins,Amandachester,53,Cobrança,Não compreendo alguns itens na minha fatura. Gostaria de uma explicação detalhada.
+11,Marc Bullock,East Travis,57,Cancelamento,O processo de cancelamento é burocrático e demorado. Isso é frustrante.
+12,Susan Thomas,South Kylehaven,57,"Plano de Serviço, Ofertas, Bônus, Promoções","Fui atraído por ofertas especiais, mas não estou desfrutando dos benefícios anunciados. Ajuda é necessária."
+13,Jeffrey Mathews,Edwardstown,19,"Bloqueio, Desbloqueio ou Suspensão",Minha linha foi bloqueada e não recebi nenhuma notificação prévia. Isso é inadmissível.
+14,Melissa Le,Lake Johnfurt,36,"Qualidade, Funcionamento e Reparo","Estou tendo problemas constantes no funcionamento do serviço, mesmo após solicitar reparos."
+15,Johnny Taylor,New Victoriaburgh,33,"Instalação, Ativação ou Habilitação",Enfrentei problemas durante a instalação do serviço. A qualidade está abaixo do esperado.
+16,Jimmy Carpenter,New Stephanie,47,Mudança de Endereço,Estou sem comunicação após a mudança de endereço. A transferência do serviço não foi concluída.
+17,Jonathan Calhoun,Port Tiffanybury,54,Cancelamento,"Não consigo cancelar meu serviço, mesmo após várias tentativas. Estou frustrado."
+18,Carol Sanders,South Joeltown,26,Cobrança,Recebi uma cobrança indevida e não consigo obter esclarecimentos. Preciso resolver isso urgentemente.
+19,Rachel Miller DDS,Leeview,50,"Plano de Serviço, Ofertas, Bônus, Promoções",Meu plano não está incluindo os bônus e ofertas prometidos. Estou desapontado.
+20,Bradley Miller,Kevinchester,47,"Plano de Serviço, Ofertas, Bônus, Promoções","Fui atraído por ofertas especiais, mas não estou desfrutando dos benefícios anunciados. Ajuda é necessária."
+21,Kevin Noble,New Rachelfort,27,Cobrança,Fui cobrado por um serviço que cancelei. Preciso de uma restituição.
+22,Kelsey Green,Lake Briannachester,20,"Qualidade, Funcionamento e Reparo","Meu serviço está com falhas constantes, apesar das tentativas de reparo. Estou insatisfeito."
+23,Elizabeth Nunez,Anthonystad,31,"Bloqueio, Desbloqueio ou Suspensão",Meu telefone foi bloqueado sem motivo aparente. Quero uma solução rápida para essa situação.
+24,Tracy Roach,Frenchstad,45,Atendimento,O atendimento telefônico demorou muito e não resolveu minha situação.
+25,John Perez,Beckfurt,21,Cobrança,A fatura deste mês veio com um valor incorreto. Preciso de uma correção imediata.
+26,Rhonda Nicholson,East Robinborough,42,"Qualidade, Funcionamento e Reparo","O funcionamento do serviço está abaixo do esperado, mesmo após intervenções para reparo."
+27,Mark Lewis,Williamtown,33,Dados Cadastrais,As alterações recentes em meus dados cadastrais não foram refletidas na minha conta. Favor corrigir.
+28,Kevin Mills,East Jenniferton,43,Cobrança,Não reconheço uma transação na minha fatura. Preciso de esclarecimentos urgentes.
+29,Amy Howard,Kelseymouth,50,Ressarcimento,Fiquei sem serviço por um período significativo. Exijo um ressarcimento pelos transtornos causados.
+30,Jose Moyer,East Noah,29,"Instalação, Ativação ou Habilitação",Estou tendo problemas após a ativação do serviço. A conexão é intermitente.
+31,Daniel Mitchell,Duncanside,33,"Plano de Serviço, Ofertas, Bônus, Promoções",As promoções anunciadas não foram aplicadas à minha conta. Isso é propaganda enganosa.
+32,James Miranda,East Rachael,40,Ressarcimento,A interrupção do serviço causou inconvenientes significativos. Quero ser ressarcido.
+33,Jared Banks,Grahamshire,31,Dados Cadastrais,"Meus dados cadastrais estão incorretos, impactando o acesso aos serviços. Exijo uma solução imediata."
+34,Mark Johnson,Lake Seth,25,Mudança de Endereço,"Atualizei meu endereço, mas o serviço não foi transferido corretamente. Preciso resolver isso."
+35,Vincent Schwartz,Ryanview,53,Ressarcimento,Estou insatisfeito com a demora na resolução do problema. Preciso de ressarcimento.
+36,Andrea Aguilar,Hernandezborough,43,Mudança de Endereço,O serviço não está disponível no meu novo endereço após a mudança. Isso precisa ser resolvido.
+37,Robert Short,Lake Denise,19,Cobrança,Recebi uma cobrança adicional sem explicação. Absurdo.
+38,Allen Meyers,Nataliestad,48,Atendimento,O atendimento foi péssimo! Não resolveram meu problema e fui tratado com descaso.
+39,Shane Yang,Shafferhaven,49,"Plano de Serviço, Ofertas, Bônus, Promoções",As ofertas e promoções que me foram apresentadas não estão sendo aplicadas ao meu contrato.
+40,John Foster,New Edward,24,Atendimento,O atendimento ao cliente deixou a desejar. Não me senti valorizado como cliente.
+41,John Harrison,Jonathanport,58,"Bloqueio, Desbloqueio ou Suspensão",Não consigo fazer chamadas devido ao bloqueio do meu número. Preciso de uma solução imediata.
+42,Roy Gutierrez,Lake Michael,40,Ressarcimento,O serviço não foi restaurado dentro do prazo prometido. Exijo compensação pelos prejuízos.
+43,Nicole Sparks,Cortezmouth,40,Dados Cadastrais,Os dados cadastrais em minha conta estão desatualizados. Preciso corrigir essa situação.
+44,Matthew Cabrera,Shawnshire,55,Ressarcimento,Fiquei sem serviço por um período significativo. Exijo um ressarcimento pelos transtornos causados.
+45,Kathleen Schultz,Christinabury,32,Mudança de Endereço,"Mudei de endereço, mas o serviço ainda está vinculado à minha residência anterior. Isso é inaceitável."
+46,Adrienne Phillips,New John,49,Cobrança,Estou questionando uma cobrança duplicada em minha fatura. Preciso de uma análise rápida.
+47,Sara Copeland,Fischerview,44,"Bloqueio, Desbloqueio ou Suspensão",Meu telefone foi bloqueado sem motivo aparente. Quero uma solução rápida para essa situação.
+48,Crystal Medina,Wardland,60,"Qualidade, Funcionamento e Reparo",Estou enfrentando dificuldades devido à baixa qualidade do serviço. Preciso de uma solução imediata.
+49,Nicholas Davis,Humphreyview,48,Dados Cadastrais,As informações cadastrais em minha conta estão desatualizadas. Como posso atualizá-las?
+50,Marie Krause,North Tanyatown,37,Dados Cadastrais,Estou enfrentando problemas devido a dados cadastrais incorretos. Preciso de assistência para resolver.
+51,Pamela Jones,New Susan,20,Mudança de Endereço,"Mudei de endereço, mas o serviço ainda está vinculado à minha residência anterior. Isso é inaceitável."
+52,Robert Coleman,Corteztown,39,Cobrança,"Minha fatura está incorreta, com serviços não contratados sendo cobrados. Isso precisa ser corrigido."
+53,Dylan White,Edwardshire,47,"Qualidade, Funcionamento e Reparo",A qualidade do sinal é péssima. Tentativas de reparo não surtiram efeito.
+54,Ashley Bender,North Angela,44,Ressarcimento,Estou enfrentando prejuízos financeiros devido à falta de serviço. Exijo ressarcimento.
+55,Mrs. Madison Anderson,East Dan,55,Mudança de Endereço,Estou enfrentando dificuldades após a mudança de endereço. O serviço não está funcionando adequadamente.
+56,Megan Harrison,South Ricardo,46,Cobrança,Fui cobrado por um serviço que cancelei. Preciso de uma restituição.
+57,Anna Stephens,Davidburgh,41,"Bloqueio, Desbloqueio ou Suspensão",Estou enfrentando dificuldades devido ao bloqueio do meu número. Preciso de assistência urgente.
+58,Jacqueline Smith,East Nathan,43,"Bloqueio, Desbloqueio ou Suspensão",Meu telefone foi bloqueado sem motivo aparente. Quero uma solução rápida para essa situação.
+59,Amber Carroll,Toddton,44,Atendimento,Não obtive a ajuda necessária do suporte. Fiquei bastante insatisfeito com o atendimento.
+60,Jeremy Watkins,Port Christopherstad,52,Cancelamento,"Após solicitar o cancelamento, continuo recebendo faturas. Isso é inaceitável."
+61,Jennifer Lang,New Samuel,32,Atendimento,Fui transferido para vários setores e ainda não obtive a solução para meu problema.
+62,Michael Jones,West Joshua,42,Cancelamento,"Tentei cancelar o plano, mas fui transferido para diversos setores sem sucesso. Isso é um descaso."
+63,Christina Young,New Robert,27,"Bloqueio, Desbloqueio ou Suspensão",Estou enfrentando dificuldades devido ao bloqueio do meu número. Preciso de assistência urgente.
+64,Charles Johnson,Gallegosburgh,30,Atendimento,O atendimento telefônico demorou muito e não resolveu minha situação.
+65,Kathryn Allen,New Victoriafurt,19,Cobrança,Estou questionando uma cobrança duplicada em minha fatura. Preciso de uma análise rápida.
+66,Rachel Pham,South David,41,Mudança de Endereço,"Mudei de endereço, mas o serviço ainda está vinculado à minha residência anterior. Isso é inaceitável."
+67,Angela Walton,Port Martinstad,28,"Bloqueio, Desbloqueio ou Suspensão",O bloqueio do meu número foi injustificado. Quero uma explicação e a retificação imediata.
+68,Mark Green,Lake Michael,52,Cancelamento,"Ao solicitar o cancelamento, fui informado de taxas adicionais. Isso não foi previamente mencionado."
+69,Lonnie Ray,Port Jameschester,39,Cancelamento,"Ao solicitar o cancelamento, fui informado de taxas adicionais. Isso não foi previamente mencionado."
+70,Daniel Hicks,Ortizmouth,28,"Plano de Serviço, Ofertas, Bônus, Promoções",Meu plano não está incluindo os bônus e ofertas prometidos. Estou desapontado.
+71,Jeffrey Edwards,New Davidside,48,"Qualidade, Funcionamento e Reparo",Os reparos realizados não solucionaram os problemas de qualidade do serviço.
+72,Mark Melendez,Hillmouth,53,"Bloqueio, Desbloqueio ou Suspensão",Estou enfrentando dificuldades devido ao bloqueio do meu número. Preciso de assistência urgente.
+73,Billy Howard,New Anthonytown,50,"Qualidade, Funcionamento e Reparo",Os reparos realizados não solucionaram os problemas de qualidade do serviço.
+74,Dawn Rhodes,Sarahmouth,20,"Qualidade, Funcionamento e Reparo",A qualidade do sinal é péssima. Tentativas de reparo não surtiram efeito.
+75,Joyce Ashley,Davischester,40,Mudança de Endereço,"Mudei de endereço, mas o serviço ainda está vinculado à minha residência anterior. Isso é inaceitável."
+76,David Smith,Millshaven,56,"Instalação, Ativação ou Habilitação",A instalação do serviço foi um desastre. A conexão é instável e não atende às minhas necessidades.
+77,Michelle Parker,Lake Patty,46,Cancelamento,Estou enfrentando dificuldades para cancelar meu plano. A empresa precisa resolver isso.
+78,Mckenzie Bailey,Lake Micheleburgh,25,Mudança de Endereço,"Atualizei meu endereço, mas o serviço não foi transferido corretamente. Preciso resolver isso."
+79,Susan Williams,Juanborough,52,"Qualidade, Funcionamento e Reparo","O funcionamento do serviço está abaixo do esperado, mesmo após intervenções para reparo."
+80,Morgan Hines,East Allen,34,Cobrança,"Minha fatura está incorreta, com serviços não contratados sendo cobrados. Isso precisa ser corrigido."
+81,Jeffrey House,Port Donnaview,45,Atendimento,O atendimento foi péssimo! Não resolveram meu problema e fui tratado com descaso.
+82,Julie Mills,New Paulland,36,Mudança de Endereço,"Mudei de endereço, mas o serviço ainda está vinculado à minha residência anterior. Isso é inaceitável."
+83,Todd Zhang,Branchberg,25,Mudança de Endereço,"Mudei de endereço, mas o serviço ainda está vinculado à minha residência anterior. Isso é inaceitável."
+84,Michael Nelson DDS,New Stephanie,54,Mudança de Endereço,"Após a mudança, meu serviço foi interrompido. Isso está causando inconvenientes."
+85,Jodi Watson,Port Waltershire,30,Cancelamento,Estou insatisfeito com o processo de cancelamento. Fui mal atendido e não obtive sucesso.
+86,Katherine Meza,Danielside,35,"Bloqueio, Desbloqueio ou Suspensão",Meu telefone foi bloqueado sem motivo aparente. Quero uma solução rápida para essa situação.
+87,Patrick Mays,Port Adamshire,18,"Qualidade, Funcionamento e Reparo","Estou tendo problemas constantes no funcionamento do serviço, mesmo após solicitar reparos."
+88,Traci Herring,Ericview,53,Dados Cadastrais,Os dados cadastrais em minha conta estão desatualizados. Preciso corrigir essa situação.
+89,Lawrence Irwin,Lisafort,40,Mudança de Endereço,"Ao mudar de endereço, fui informado de que o serviço seria transferido, mas isso não aconteceu."
+90,Sean Thomas,New Natalie,49,Dados Cadastrais,Meus dados cadastrais foram alterados erroneamente. Preciso de correção.
+91,Jose Holmes,Michellebury,41,"Bloqueio, Desbloqueio ou Suspensão",Não consigo fazer chamadas devido ao bloqueio do meu número. Preciso de uma solução imediata.
+92,Jason Fox,East Pamela,28,Cancelamento,"Ao solicitar o cancelamento, fui informado de taxas adicionais. Isso não foi previamente mencionado."
+93,Paul Ruiz,New Leslieberg,44,"Bloqueio, Desbloqueio ou Suspensão",Meu celular foi bloqueado sem aviso prévio. Isso é inaceitável e prejudica minha rotina.
+94,Jacqueline Williams,New Hectorfurt,35,Ressarcimento,A interrupção do serviço causou inconvenientes significativos. Quero ser ressarcido.
+95,Jennifer Flores,South Donald,48,"Bloqueio, Desbloqueio ou Suspensão",Minha linha foi bloqueada e não recebi nenhuma notificação prévia. Isso é inadmissível.
+96,David Barrett,Port Cynthiafurt,60,Atendimento,O atendimento telefônico demorou muito e não resolveu minha situação.
+97,Andrew Gonzalez,Ramirezhaven,30,Cancelamento,"Não consigo cancelar meu serviço, mesmo após várias tentativas. Estou frustrado."
+98,Christopher Snyder,Tinaville,20,"Qualidade, Funcionamento e Reparo","Enfrentei problemas de qualidade no serviço, mesmo após tentativas de reparo."
+99,Lori Page,Port Johnmouth,26,Cobrança,A fatura deste mês veio com um valor incorreto. Preciso de uma correção imediata.
+100,Samantha Wyatt,Angelville,34,Cancelamento,Estou enfrentando dificuldades para cancelar meu plano. A empresa precisa resolver isso.
