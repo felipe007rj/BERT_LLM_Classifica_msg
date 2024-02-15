@@ -24,3 +24,6 @@ pip install flask transformers joblib torch
 ## Inclusão no BD - reclamação recusada
 
 ![frontend4](https://github.com/felipe007rj/BERT_LLM_Classifica_msg/assets/89472224/cef12c41-58ca-434a-af89-ba1d46e50244)
+
+
+![frontend1](https://github.com/felipe007rj/BERT_LLM_Classifica_msg/assets/89472224/9d23c62e-9727-4f19-8b12-1575524ddc5f)
