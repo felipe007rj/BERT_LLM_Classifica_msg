@@ -2,28 +2,16 @@
 
 Este é um projeto Flask que utiliza um modelo BERT pré-treinado para prever o tipo de reclamação com base na mensagem fornecida pelo usuário. O modelo é treinado para categorizar reclamações em diferentes tipos, como "Atendimento", "Cancelamento", etc.
 
-## Pré-requisitos
+![frontend1](https://github.com/felipe007rj/BERT_LLM_Classifica_msg/assets/89472224/bdec687e-28da-4793-bd2c-4eba4101a620)
 
-Certifique-se de ter as seguintes bibliotecas Python instaladas:
+<br/>
 
-```bash
-pip install flask transformers joblib torch
+![frontend2](https://github.com/felipe007rj/BERT_LLM_Classifica_msg/assets/89472224/6ac36401-af5e-4348-8963-4e67f2f28999)
 
-## Front-end - insert da reclamação
+<br/>
 
-![frontend1](https://github.com/felipe007rj/BERT_LLM_Classifica_msg/assets/89472224/2cf933dd-c480-43a0-b640-aa0435c7ecbf)
+![frontend3](https://github.com/felipe007rj/BERT_LLM_Classifica_msg/assets/89472224/06b6fc6d-15cd-47e6-be5e-b7993f8fd9b0)
 
-## Inclusão no BD - reclamação aceita
+<br/>
 
-![frontend2](https://github.com/felipe007rj/BERT_LLM_Classifica_msg/assets/89472224/0651c529-19ae-45cb-b3ed-59730bdcd466)
-
-## Front-end - insert da reclamação
-
-![frontend3](https://github.com/felipe007rj/BERT_LLM_Classifica_msg/assets/89472224/4932b0fe-67a3-4872-9ad3-426d8d165757)
-
-## Inclusão no BD - reclamação recusada
-
-![frontend4](https://github.com/felipe007rj/BERT_LLM_Classifica_msg/assets/89472224/cef12c41-58ca-434a-af89-ba1d46e50244)
-
-
-![frontend1](https://github.com/felipe007rj/BERT_LLM_Classifica_msg/assets/89472224/9d23c62e-9727-4f19-8b12-1575524ddc5f)
+![frontend4](https://github.com/felipe007rj/BERT_LLM_Classifica_msg/assets/89472224/a1d6acdb-ac40-4f6e-8679-0404be7812cd)
